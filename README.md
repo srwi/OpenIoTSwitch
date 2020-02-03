@@ -36,7 +36,7 @@ The PCB design can be found on [EasyEDA](https://easyeda.com/kranwasser/openiots
 
 To flash the tasmota firmware consult the [tasmota wiki](https://github.com/arendst/Tasmota/wiki). All the needed pins are broken out on the OpenIoTSwitch board. Afterwards set up the module according to the following screenshot:
 
-![Tasmota config screenshot](TasmotaConfiguration.png "Tasmota configuration")
+![Tasmota config screenshot](Images/TasmotaConfiguration.png "Tasmota configuration")
 
 ## Case
 
