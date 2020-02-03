@@ -2,8 +2,8 @@
 
 The OpenIoTSwitch is yet another diy smart light switch based on the ESP8266 featuring up to two relays. It is meant to be installed behind a standard (1 or 2 gang) light switch. The physical light switch will still be functional as well as wireless control via the tasmota firmware.
 
-![Photo 1](Photo1.jpg)
-![Photo 2](Photo2.jpg)
+![Photo 1](Images/Photo1.jpg)
+![Photo 2](Images/Photo2.jpg)
 
 ## PCB
 
