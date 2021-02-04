@@ -2,8 +2,7 @@
 
 The OpenIoTSwitch is yet another diy smart light switch based on the ESP8266 featuring up to two relays. It is meant to be installed behind a standard (1 or 2 gang) light switch. The physical light switch will still be functional as well as wireless control via the tasmota firmware.
 
-![Photo 1](Images/Photo1.jpg)
-![Photo 2](Images/Photo2.jpg)
+![Photo 1](https://user-images.githubusercontent.com/17520641/106927142-2b645500-6712-11eb-9c8e-1161cf97c45c.png)
 
 ## PCB
 
@@ -36,7 +35,7 @@ The PCB design can be found on [EasyEDA](https://easyeda.com/kranwasser/openiots
 
 To flash the tasmota firmware consult the [tasmota wiki](https://github.com/arendst/Tasmota/wiki). All the needed pins are broken out on the OpenIoTSwitch board. Afterwards set up the module according to the following screenshot:
 
-![Tasmota config screenshot](Images/TasmotaConfiguration.png "Tasmota configuration")
+![Tasmota config screenshot](https://user-images.githubusercontent.com/17520641/106927810-d07f2d80-6712-11eb-9095-ffc351793db3.png "Tasmota configuration")
 
 ## Case
 
