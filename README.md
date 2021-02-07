@@ -41,6 +41,8 @@ To flash the tasmota firmware consult the [tasmota wiki](https://github.com/aren
 
 There is a 3D-printable case, however I did not get around to actually printing it yet so it is untested. Feel free to print the .blend-file and give your feedback.
 
+![Case render](https://user-images.githubusercontent.com/17520641/107134420-2cec7380-68f2-11eb-82b4-f00865c05122.png)
+
 ## Disclaimer
 
 :warning: **DANGER OF ELECTROCUTION** :warning:
