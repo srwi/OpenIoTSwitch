@@ -1,8 +1,10 @@
 # OpenIoTSwitch
 
+![Case](https://user-images.githubusercontent.com/17520641/139705365-57ca7d7b-ccd6-418d-ad14-cc713e043912.png)
+
 The OpenIoTSwitch is yet another diy smart light switch based on the ESP8266 featuring up to two relays. It is meant to be installed behind a standard (1 or 2 gang) light switch. The physical light switch will still be functional as well as wireless control via the tasmota firmware.
 
-![Photo 1](https://user-images.githubusercontent.com/17520641/106927142-2b645500-6712-11eb-9c8e-1161cf97c45c.png)
+![Photo 1](https://user-images.githubusercontent.com/17520641/139704207-1ce7861f-3b3f-454e-abbb-84703f39bf6e.png)
 
 ## PCB
 
@@ -39,9 +41,9 @@ To flash the tasmota firmware consult the [tasmota wiki](https://github.com/aren
 
 ## Case
 
-There is a 3D-printable case, however I did not get around to actually printing it yet so it is untested. Feel free to print the .blend-file and give your feedback.
+The 3d printable case consists of the main body and a lid. The stl files can be found in the releases section.
 
-![Case render](https://user-images.githubusercontent.com/17520641/107134420-2cec7380-68f2-11eb-82b4-f00865c05122.png)
+![Case render](https://user-images.githubusercontent.com/17520641/139706014-cff07da4-e6c6-4c0d-a2df-0f1d9d73adac.png)
 
 ## Disclaimer
 
