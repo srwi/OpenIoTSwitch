@@ -14,24 +14,24 @@ The PCB design can be found on [EasyEDA](https://easyeda.com/kranwasser/openiots
 
 |           Item          |  Location  |    Link    | Required |
 |:-----------------------:|:----------:|:----------:|:--------:|
-|         ESP-12F         |     U7     | [AliExpress](https://www.aliexpress.com/item/32339917567.html) |     1    |
+|         ESP-12F         |     U7     | [AliExpress](https://www.aliexpress.com/item/32339917567.html)   |     1    |
 |        0.5A fuse        |     U6     | [AliExpress](https://www.aliexpress.com/item/4000396818586.html) |     1    |
-|   5x20mm fuse holder    |            | [AliExpress](https://www.aliexpress.com/item/32804593991.html) |     2    |
-|        WJ126R 2P        |   U3, U5   | [AliExpress](https://www.aliexpress.com/item/32897358721.html) |     2    |
-|       HLK-PM01 5V       |     U4     | [AliExpress](https://www.aliexpress.com/item/32705471039.html) |     1    |
-|       AMS1117-3.3       |     U1     | [AliExpress](https://www.aliexpress.com/item/32844980545.html) |     1    |
-|       MOV-07D271K       |     RV1    | [AliExpress](https://www.aliexpress.com/item/32847435105.html) |     1    |
-|    0Ohm 0805 resistor   |     R8     | [AliExpress](https://www.aliexpress.com/item/32858225842.html) |     1    |
-|   10kOhm 0805 resistor  | R5, R6, R7 | [AliExpress](https://www.aliexpress.com/item/32858225842.html) |     3    |
-|  100kOhm 0805 resistor  |   R2, R4   | [AliExpress](https://www.aliexpress.com/item/32858225842.html) |     2    |
-|   1kOhm 0805 resistor   |   R1, R3   | [AliExpress](https://www.aliexpress.com/item/32858225842.html) |     2    |
-|   MMBT3904 transistor   |   Q1, Q2   | [AliExpress](https://www.aliexpress.com/item/32840835639.html) |     2    |
-|    1x4 female header    |     P1     | [AliExpress](https://www.aliexpress.com/item/32858478594.html) |     1    |
-|   G5NB-1A-E-DC5V relay  |   J1, J2   | [AliExpress](https://www.aliexpress.com/item/32888982845.html) |     2    |
-|  1N4148W SOD-123 diode  |   D1, D2   | [AliExpress](https://www.aliexpress.com/item/32868523818.html) |     2    |
-| 100nF ceramic capacitor |     C3     | [AliExpress](https://www.aliexpress.com/item/32853487845.html) |     1    |
-| 22uF tantalum capacitor |     C2     | [AliExpress](https://www.aliexpress.com/item/32844177755.html) |     1    |
-| 10uF tantalum capacitor |     C1     | [AliExpress](https://www.aliexpress.com/item/32846663127.html) |     1    |
+|   5x20mm fuse holder    |            | [AliExpress](https://www.aliexpress.com/item/32804593991.html)   |     2    |
+|        WJ126R 2P        |   U3, U5   | [AliExpress](https://www.aliexpress.com/item/32897358721.html)   |     2    |
+|       HLK-PM01 5V       |     U4     | [AliExpress](https://www.aliexpress.com/item/32705471039.html)   |     1    |
+|       AMS1117-3.3       |     U1     | [AliExpress](https://www.aliexpress.com/item/32844980545.html)   |     1    |
+|       MOV-07D271K       |     RV1    | [AliExpress](https://www.aliexpress.com/item/4001139097713.html) |     1    |
+|    0Ohm 0805 resistor   |     R8     | [AliExpress](https://www.aliexpress.com/item/32858225842.html)   |     1    |
+|   10kOhm 0805 resistor  | R5, R6, R7 | [AliExpress](https://www.aliexpress.com/item/32858225842.html)   |     3    |
+|  100kOhm 0805 resistor  |   R2, R4   | [AliExpress](https://www.aliexpress.com/item/32858225842.html)   |     2    |
+|   1kOhm 0805 resistor   |   R1, R3   | [AliExpress](https://www.aliexpress.com/item/32858225842.html)   |     2    |
+|   MMBT3904 transistor   |   Q1, Q2   | [AliExpress](https://www.aliexpress.com/item/32840835639.html)   |     2    |
+|    1x4 female header    |     P1     | [AliExpress](https://www.aliexpress.com/item/32858478594.html)   |     1    |
+|   G5NB-1A-E-DC5V relay  |   J1, J2   | [AliExpress](https://www.aliexpress.com/item/32888982845.html)   |     2    |
+|  1N4148W SOD-123 diode  |   D1, D2   | [AliExpress](https://www.aliexpress.com/item/32868523818.html)   |     2    |
+| 100nF ceramic capacitor |     C3     | [AliExpress](https://www.aliexpress.com/item/32853487845.html)   |     1    |
+| 22uF tantalum capacitor |     C2     | [AliExpress](https://www.aliexpress.com/item/32844177755.html)   |     1    |
+| 10uF tantalum capacitor |     C1     | [AliExpress](https://www.aliexpress.com/item/32846663127.html)   |     1    |
 
 ## Setup
 
