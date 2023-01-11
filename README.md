@@ -20,7 +20,7 @@ The PCB design can be found on [EasyEDA](https://easyeda.com/kranwasser/openiots
 |        WJ126R 2P        |   U3, U5   | [AliExpress](https://www.aliexpress.com/item/32897358721.html)   |     2    |
 |       HLK-PM01 5V       |     U4     | [AliExpress](https://www.aliexpress.com/item/32705471039.html)   |     1    |
 |       AMS1117-3.3       |     U1     | [AliExpress](https://www.aliexpress.com/item/32844980545.html)   |     1    |
-|       MOV-07D271K       |     RV1    | [AliExpress](https://www.aliexpress.com/item/4001139097713.html) |     1    |
+|       MOV-10D561K       |     RV1    | [AliExpress](https://www.aliexpress.com/item/4001139097713.html) |     1    |
 |    0Ohm 0805 resistor   |     R8     | [AliExpress](https://www.aliexpress.com/item/32858225842.html)   |     1    |
 |   10kOhm 0805 resistor  | R5, R6, R7 | [AliExpress](https://www.aliexpress.com/item/32858225842.html)   |     3    |
 |  100kOhm 0805 resistor  |   R2, R4   | [AliExpress](https://www.aliexpress.com/item/32858225842.html)   |     2    |
